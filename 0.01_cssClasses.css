@@ -1,0 +1,15 @@
+.customDiv {
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	width: 50%;
+}
+
+.borderDiv {
+	border: double 10px red;
+	border-radius: 20px;
+}
+
+.customListItems {
+	color: lightgreen;
+}
