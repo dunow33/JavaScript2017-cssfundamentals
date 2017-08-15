@@ -1,0 +1,17 @@
+.customDiv1 {
+	padding-right: 11px;
+	float:left;
+	width: 47%
+}
+
+.customDiv2 {
+	padding-left: 11px;
+	float: right;
+	width: 47%;
+}
+
+.customDiv3 {
+	margin: 10%
+	padding: 7px;
+	width: 90%;
+}
